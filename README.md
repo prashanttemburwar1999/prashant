@@ -2,6 +2,7 @@
 - 💻 I’m interested in Software Development
 - 👨‍💻 I’m currently learning Technical Skills
 - 🎯 I’m looking to collaborate on Github 
+- Now its great time to learn on github
 
 
 <!---
