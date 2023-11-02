@@ -1,6 +1,6 @@
 - 👨‍🎓 Hi, I’m @prashanttemburwar1999
 - 💻 I’m interested in Software Development
-- 👨‍💻 I’m currently learning Technical Skills
+- 👨‍💻 I’m currently working in Eviden as a Cloud Engineer
 - 🎯 I’m looking to collaborate on Github 
 
 
